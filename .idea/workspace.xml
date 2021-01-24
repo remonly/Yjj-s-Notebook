@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38364a6-5315-4ac3-aefa-78af7ddec9a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RecSys/DFT-K歌.md" afterPath="$PROJECT_DIR$/RecSys/DFT-K歌.md" />
     </list>
     <ignored path="MyMarkdowns.iws" />
@@ -28,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/RecSys/DFT-K歌.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.1005291">
-                <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <first_editor vertical-scroll-proportion="0.8148148">
+                <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -331,8 +330,8 @@
     <entry file="file://$PROJECT_DIR$/RecSys/DFT-K歌.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.1005291">
-            <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <first_editor vertical-scroll-proportion="0.8148148">
+            <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
