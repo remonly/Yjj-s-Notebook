@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f38364a6-5315-4ac3-aefa-78af7ddec9a5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ItemSearchingEngine/ElasticSearch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemRetrievalEngine/ElasticSearch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ItemRetrievalEngine/ElasticSearch.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
